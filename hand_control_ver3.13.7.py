@@ -8,9 +8,9 @@ cap.set(4, 720)
 
 # --- VALORES INICIALES PARA DETECTAR COLOR (Ejemplo: Azul) ---
 # Ajusta estos valores con las barras deslizantes que aparecerán
-h_min, h_max = 90, 130
-s_min, s_max = 150, 255
-v_min, v_max = 100, 255
+h_min, h_max = 0,150
+s_min, s_max = 0, 50
+v_min, v_max = 200, 200
 
 def on_trackbar(val):
     pass
