@@ -1,1 +1,11 @@
+# Carpetas de prototipos a ignorar
 donapp-prototype/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos compilados temporales de Python
+__pycache__/
+*.pyc
